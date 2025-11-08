@@ -1,4 +1,6 @@
-<!-- Banner -->
+<!-- Animated Banner -->
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:00bcd4,100:1e1e2f&height=200&section=header&text=Kurt%20Destrajo&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=38)
+
 <h1 align="center">👋 Hey there, I'm <span style="color:#00bcd4;">Kurt Destrajo</span>!</h1>
 <h3 align="center">🎓 BS Computer Science Student | 📱 Mobile & Web Developer | 💡 Tech Enthusiast</h3>
 
@@ -36,6 +38,7 @@ I enjoy solving problems, experimenting with new technologies, and crafting seam
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" height="45" alt="Django"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" height="45" alt="PHP"/>
@@ -53,7 +56,7 @@ I enjoy solving problems, experimenting with new technologies, and crafting seam
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="45" height="45" alt="Dart"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haxe/haxe-original.svg" width="45" height="45" alt="Haxe"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/assembly/assembly-original.svg" width="45" height="45" alt="Assembly"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Asm_logo.svg" width="45" height="45" alt="Assembly"/>
 </p>
 
 ---
@@ -95,15 +98,6 @@ A full-stack mobile system designed to optimize **Public Utility Vehicle operati
 
 ---
 
-### 🛒 **Sari-Sari Store POS & Inventory System**
-A Flutter-based **offline POS system** using SQLite with:
-- Product search & inventory tracking  
-- Automatic stock deduction  
-- Change calculator  
-- Product image upload  
-
----
-
 ### 🧾 **AI-Powered Notepad App**
 A study companion that scans PDFs and allows users to **chat with AI** about the content.  
 🧠 *Tech:* Flutter • OpenAI API • Firebase Auth
@@ -125,15 +119,19 @@ A study companion that scans PDFs and allows users to **chat with AI** about the
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KurtDestrajo&layout=compact&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KurtDestrajo&theme=tokyo-night&hide_border=true"/>
+</p>
+
 ---
 
 ## 📬 Connect With Me
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:kurtrusseldestrajo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/kurt-russel-destrajo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://x.com/nikushimi5600?s=21"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/></a>
 </p>
 
 ---
