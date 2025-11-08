@@ -1,7 +1,7 @@
 <!-- Animated Banner -->
 ![banner](https://capsule-render.vercel.app/api?type=waving&color=0:00bcd4,100:1e1e2f&height=200&section=header&text=Kurt%20Destrajo&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=38)
 
-<h1 align="center">👋 Hey there, I'm <span style="color:#00bcd4;">Kurt Destrajo</span>!</h1>
+<h1 align="center">👋 Hey there, I'm <span style="color:#00bcd4;">Kurt Russel Destrajo</span>!</h1>
 <h3 align="center">🎓 BS Computer Science Student | 📱 Mobile & Web Developer | 💡 Tech Enthusiast</h3>
 
 ---
@@ -115,12 +115,12 @@ A study companion that scans PDFs and allows users to **chat with AI** about the
 ## 🧩 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KurtDestrajo&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KurtDestrajo&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bumbumnum1&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bumbumnum1&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KurtDestrajo&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bumbumnum1&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -130,7 +130,7 @@ A study companion that scans PDFs and allows users to **chat with AI** about the
 <p align="center">
   <a href="mailto:kurtrusseldestrajo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/kurt-russel-destrajo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://x.com/nikushimi5600?s=21"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/></a>
 </p>
 
