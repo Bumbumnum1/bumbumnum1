@@ -1,5 +1,5 @@
 <!-- Animated Banner -->
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:00bcd4,100:1e1e2f&height=200&section=header&text=Kurt%20Destrajo&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=38)
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:00bcd4,100:1e1e2f&height=200&section=header&text=Kurt%20Russel%20Destrajo&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=38)
 
 <h1 align="center">👋 Hey there, I'm <span style="color:#00bcd4;">Kurt Russel Destrajo</span>!</h1>
 <h3 align="center">🎓 BS Computer Science Student | 📱 Mobile & Web Developer | 💡 Tech Enthusiast</h3>
