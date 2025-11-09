@@ -7,7 +7,7 @@
 ---
 
 ### 🚀 About Me  
-I'm a passionate **3rd-year Computer Science student** who loves building things that make life easier — from **mobile apps** and **web platforms** to **automation tools** and **digital management systems**.  
+I'm a passionate **4th-year Computer Science student** who loves building things that make life easier — from **mobile apps** and **web platforms** to **automation tools** and **digital management systems**.  
 I enjoy solving problems, experimenting with new technologies, and crafting seamless user experiences in both **frontend** and **backend** development.
 
 ---
@@ -146,4 +146,4 @@ A study companion that scans PDFs and allows users to **chat with AI** about the
 ---
 
 > _“Code with purpose, build with passion, and keep learning.”_  
-> — **Kurt Destrajo**
+> — **Kurt Russel Destrajo**
